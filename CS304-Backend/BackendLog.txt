@@ -1,0 +1,151 @@
+commit 0fb84cc677d594fe7ab65a259dd5cb54555c965e
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 17 21:02:44 2023 +0530
+
+    added some filtersin movie
+
+commit a5dc70dc78d145dbf3e3b40cf79b107b526613bd
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Tue Apr 11 08:49:16 2023 +0530
+
+    connect to frontend/ connected movie to frontend for all cruds
+
+commit 8debdde054ab85aa63d58ff3231898f6e3597033
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Sun Apr 9 11:07:02 2023 +0530
+
+    movie details are passing through the dront and back
+
+commit a2867baa3d7fbd379863a011ad727185ac8b99c5
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Thu Apr 6 00:30:34 2023 +0530
+
+    implemented theatre service and cruds done
+
+commit 620d1df2972f65bbeb1c7825cffb5b55a144eb8c
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Wed Apr 5 19:51:01 2023 +0530
+
+    Created User and Movie services and cruds done, Data passed(postman)
+
+commit 2c25be7b69591a13ad2df7d42cfd9a2b9a009f9c
+Merge: 3d6bda1 fdc66bc
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Tue Apr 4 18:32:35 2023 +0530
+
+    Merge branch 'mapping' of https://github.com/charuka742/CS304-Backend into mapping
+
+commit 3d6bda1a7a3110064c3c1e4818274b8274c76158
+Merge: 579c5c7 8d5c86c
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Tue Apr 4 18:30:16 2023 +0530
+
+    Merge branch 'dev' of https://github.com/charuka742/CS304-Backend into mapping
+
+commit 579c5c7bb9a5c6a47cbd00ca5ff17a7df996c2f9
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Tue Apr 4 18:16:15 2023 +0530
+
+    service first
+
+commit fdc66bce0f502956182dc471d8786cce5e1f2bed
+Merge: 901203e 8d5c86c
+Author: charuka <128085473+charuka742@users.noreply.github.com>
+Date:   Mon Apr 3 17:02:24 2023 +0530
+
+    Merge pull request #3 from charuka742/dev
+    
+    mix
+
+commit 8d5c86cc791e6aa1ce1516da9cc74daecc1fd040
+Merge: 4f82790 901203e
+Author: charuka <128085473+charuka742@users.noreply.github.com>
+Date:   Mon Apr 3 17:01:23 2023 +0530
+
+    Merge pull request #2 from charuka742/mapping
+    
+    Mapping
+
+commit 901203ed5bf33bb57542d144c63ad6ca5ed8f384
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 3 16:58:49 2023 +0530
+
+    mapping close step 01
+
+commit f1900c00f1953a53e9f02f2dd059ca20602b22ea
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 3 13:58:20 2023 +0530
+
+    temp mapped
+
+commit 4f827901c3568034ca3db6fa7c2e8caf69a01371
+Author: charuka <128085473+charuka742@users.noreply.github.com>
+Date:   Mon Apr 3 12:12:41 2023 +0530
+
+    created readme.md
+    
+    created
+
+commit fb865a40bc5e79b7aa367b4e8769cf2931bc5213
+Merge: 2b29d09 71451cd
+Author: charuka <128085473+charuka742@users.noreply.github.com>
+Date:   Mon Apr 3 12:12:01 2023 +0530
+
+    Merge pull request #1 from charuka742/main
+    
+    promotion
+
+commit 71451cd93e2a01c81264ec036a3a2209b45ee803
+Merge: 7673ee2 2b29d09
+Author: charuka <128085473+charuka742@users.noreply.github.com>
+Date:   Mon Apr 3 12:11:48 2023 +0530
+
+    Merge branch 'dev' into main
+
+commit 7673ee2c921f605e70a911654ed087cb022084f6
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 3 11:58:22 2023 +0530
+
+    promotion entity
+
+commit 2b29d099c00d1ad9ceedcec692aa37ab4a918927
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 3 11:42:10 2023 +0530
+
+    added 02
+
+commit d4a6457778f15c8c74a53b47814035093e9723f3
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 3 11:40:22 2023 +0530
+
+    payment added
+
+commit d2fbb557a7f06fff4894839116084dff9e65a498
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 3 11:35:05 2023 +0530
+
+    api done
+
+commit 0a1d10615f97188656dc0d3c389146803e23c87e
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 3 10:45:32 2023 +0530
+
+    entities without errors
+
+commit 85c525ffda5c16ac241e136378f64747c0883de3
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 3 10:34:57 2023 +0530
+
+    changed base
+
+commit 7dff4fbd22d90a10bbc7752b658d0ef19afeb96d
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Sun Apr 2 14:30:16 2023 +0530
+
+    Added 6 entites and data passed successfully
+
+commit 214745e18aa6d1746b941d1309c3e42b05d50c52
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Sun Apr 2 00:32:47 2023 +0530
+
+    created the project and few entities

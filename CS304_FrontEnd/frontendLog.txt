@@ -1,0 +1,59 @@
+commit 7792d0f45136a8e59b90078fb9e7557d89325308
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 17 20:59:46 2023 +0530
+
+    added severel files and routed Ok
+
+commit 3d26e55e2d9f0f18c8812fd37ec36340916fbcc2
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Sun Apr 16 16:44:26 2023 +0530
+
+    Started the report
+
+commit c5ed7e8ae510dee66d02cb6a6d55ff10b2356910
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Sun Apr 16 08:37:23 2023 +0530
+
+    added some UI s
+
+commit 68166897f0204557cb7431bd6721a8e7ccef143b
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Fri Apr 14 22:59:40 2023 +0530
+
+    recreated the home, started the user side pages
+
+commit 61898516195846d18c98e6c78f681795fc7e8468
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Tue Apr 11 19:01:09 2023 +0530
+
+    theatre is connected ok.
+
+commit 88b9d18e59630fe61e685d849ba3b870698cbb97
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Tue Apr 11 08:45:04 2023 +0530
+
+    Created some pages for the project
+
+commit 4268952859e0de8d9ea9533a14451ff1ee85c3e2
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Mon Apr 10 15:04:58 2023 +0530
+
+    theatre form started
+
+commit e0f2ee7cf70fae88982029461b969b9bf1823df3
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Fri Apr 7 23:32:30 2023 +0530
+
+    data transfer success
+
+commit af849dbc458a438705975b18abe1ef962a9b710e
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Thu Apr 6 15:50:41 2023 +0530
+
+    tailwind project
+
+commit 131532fc06680483b4352475077f3d9c75da3262
+Author: Disanayaka AAC <charair742@gmail.com>
+Date:   Thu Apr 6 15:45:31 2023 +0530
+
+    Initialize project using Create React App
